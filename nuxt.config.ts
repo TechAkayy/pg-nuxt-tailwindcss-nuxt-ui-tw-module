@@ -8,6 +8,7 @@ export default defineNuxtConfig({
   //     autoprefixer: {},
   //   },
   // },
+  // watch: ['themes/pg-tailwindcss/tokens.js'],
   modules: [
     // '@pinegrow/nuxt-module',
     // '@nuxthq/ui',
